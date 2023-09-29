@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Simplicial-Metaplexes
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Manuel
+    family-names: Miranda Barrado
+    email: mmiranda@ifisc.uib-csic.es
+    affiliation: IFISC
+    orcid: 'https://orcid.org/0000-0003-0424-6211'
+  - given-names: Gissell
+    family-names: Estrada-Rodríguez
+    affiliation: UPC
+    orcid: 'https://orcid.org/0000-0001-6202-9384'
+  - given-names: Ernesto
+    family-names: Estrada
+    email: estrada@ifisc.uib-csic.es
+    affiliation: IFISC
+    orcid: 'https://orcid.org/0000-0002-3066-7418'
+repository-code: 'https://github.com/ManuM2B/Simplicial-Metaplexes'
+abstract: >-
+  This repository contains the code to generate genral
+  simplicial metaplexes. It was used to generate the results
+  from the article "What in a simplicial complex? A
+  metaplex-based approach to its structure and dynamics".
+keywords:
+  - simplicial complex
+  - geometric realization
+  - metaplexes
+  - diffusion; brain networks
+  - higher-order networks
+license: GPL-3.0
